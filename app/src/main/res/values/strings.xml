@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HappyNewYear</string>
+    <string name="text_start">Hello</string>
+    <string name="text_launcher">Launcher</string>
+    <string name="text_happynewyear">新年快乐！</string>
+    <string name="text1">null</string>
+</resources>
